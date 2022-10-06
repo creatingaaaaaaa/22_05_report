@@ -1,9 +1,13 @@
 print("환영합니다."
       "파이썬의 세계에 오신 것을 환영합니다."
       "파이썬은 강력합니다.")
+
+print("반갑습니다. 파이썬!")
 print(2*3/10)
 print("hello", "world", "!!!")
+
 print(7*24)
+
 import turtle
 turtle.shape("turtle")
 turtle.forward(100)
